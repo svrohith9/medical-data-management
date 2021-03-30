@@ -7,4 +7,9 @@
 
 # instructions
 1. create a db named <b> test1 </b> and import sql file into InnoDB.
-2. start of index.php and proceed further ...
+2. Initiate phpmyadmin
+3. proceed with signup
+4. login with the credentails
+5. input the patient data
+6. All the data pertaining to individual patient will be maintained in db in encrypted format.
+7. every next record will have the connection with the most recent existing record of that particular login user.
